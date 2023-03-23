@@ -28,3 +28,8 @@ public/logo192.png
 public/logo512.png
 *.md
 ./package-lock.json
+*.svg
+src/reportWebVitals.js
+src/setupTests.js
+src/App.css
+
